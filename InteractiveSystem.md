@@ -2,7 +2,7 @@
 
 ## a. System Name
 
-**ILP Pipeline Visualizer** — A real-time CPU pipeline execution simulator with interactive control.
+**ARM5 Pipeline Sim** — A 5-stage ARM pipeline processor simulator with real-time stage visualization, built in Python.
 
 ---
 
