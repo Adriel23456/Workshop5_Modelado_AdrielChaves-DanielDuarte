@@ -1,8 +1,20 @@
 # Interactive System Proposal
+### CE-5507 Software/Hardware Object-Oriented Modeling | Instituto Tecnológico de Costa Rica
+
+---
+
+| Field | Details |
+|---|---|
+| **Course** | CE-5507 Modelación Software/Hardware Orientado a Objetos |
+| **Date** | March 2026 |
+| **Members** | Adriel Chaves — Daniel Duarte |
+
+---
 
 ## a. System Name
 
-**ARM5 Pipeline Sim** — A 5-stage ARM pipeline processor simulator with real-time stage visualization, built in Python.
+**ARM5 Pipeline Sim**
+> A 5-stage ARM architecture pipeline processor simulator with real-time stage-by-stage visualization, hazard detection, and forwarding mechanisms — implemented in Python.
 
 ---
 
