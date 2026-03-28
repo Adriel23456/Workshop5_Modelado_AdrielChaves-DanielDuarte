@@ -1,8 +1,18 @@
-Pasatiempos de Adriel Chaves, [Here I'm adding a conflict in this file]
+Pasatiempos de Adriel Chaves, Daniel Duarte
+
+Adriel:
 -----------
 Play Videogames [Trying to add another conflict, this one might fix itself]
 Watch some movies or TV series or Youtube
 Play some football
 Read sci-fi based books, like from Brandon Sanderson
 [Trying to add another conflict, this one might fix itself]
+-----------
+
+Daniel:
+-----------
+Go to the gym
+Play video games
+Spend time with loved ones
+Practice leetcode
 -----------
