@@ -1,7 +1,8 @@
-Pasatiempos de Adriel Chaves
+Pasatiempos de Adriel Chaves, [Here I'm adding a conflict in this file]
 -----------
-Play Videogames
+Play Videogames [Trying to add another conflict, this one might fix itself]
 Watch some movies or TV series or Youtube
 Play some football
 Read sci-fi based books, like from Brandon Sanderson
+[Trying to add another conflict, this one might fix itself]
 -----------
