@@ -54,12 +54,24 @@ data rather than physical sensor signals.
 
 ## e. Outputs
 
-| Actuator / Output | Signal Type |
-|---|---|
-| | |
-| | |
+The system produces the following outputs:
 
-> *To be completed.*
+- Real-time visualization of the pipeline stages (IF, ID, EX, MEM, WB),
+  showing which instruction is present in each stage per clock cycle.
+
+- Display of register values after each cycle.
+
+- Hazard detection notifications, including:
+  - Data hazards (RAW dependencies)
+  - Control hazards (branch instructions)
+
+- Pipeline behavior indicators:
+  - Stall (bubble insertion)
+  - Forwarding
+  - Flush events
+
+Outputs are presented through a command-line interface (CLI) or optional
+graphical user interface (GUI), using formatted tables and visual indicators.
 
 ---
 
