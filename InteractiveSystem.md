@@ -14,7 +14,20 @@
 
 ## c. Target User
 
-Computer Engineering students and professionals interested in understanding CPU execution mechanics at the instruction level.
+The primary target users of the *ARM5 Pipeline Sim* system are:
+
+- Undergraduate students in Computer Engineering or Computer Science programs
+  studying computer architecture or processor design.
+
+- Professors and instructors who require a teaching tool to demonstrate
+  pipeline execution, hazards, and instruction flow in a visual and interactive way.
+
+- Self-learners interested in understanding low-level processor behavior,
+  particularly ARM-based architectures.
+
+The system is designed for users with basic knowledge of programming and
+computer organization, but it also serves as a learning aid for beginners
+through its step-by-step visualization.
 
 ---
 
