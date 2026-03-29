@@ -33,12 +33,22 @@ through its step-by-step visualization.
 
 ## d. Inputs
 
-| Sensor / Source | Signal Type |
-|---|---|
-| | |
-| | |
+The system receives the following inputs:
 
-> *To be completed.*
+- Assembly instructions written in a simplified ARM syntax, provided
+  through a text file or manual input.
+
+- User control commands such as:
+  - Step execution (advance one clock cycle)
+  - Run execution (continuous simulation)
+  - Reset simulation
+
+- Initial configuration parameters:
+  - Register initial values (optional)
+  - Memory state (optional)
+
+Since this is a software-based simulator, inputs are handled as digital
+data rather than physical sensor signals.
 
 ---
 
