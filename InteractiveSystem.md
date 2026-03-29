@@ -77,4 +77,21 @@ graphical user interface (GUI), using formatted tables and visual indicators.
 
 ## Notes
 
-> *Any additional observations, constraints, or design decisions go here.*
+## f. Notes
+
+- This system is a software simulation and does not interact with physical
+  hardware components such as real sensors or actuators.
+
+- The simulator focuses on educational clarity rather than full ARM
+  instruction set completeness.
+
+- Timing is simulated logically per clock cycle and does not represent
+  real hardware execution speed.
+
+- The visualization prioritizes readability to help users understand
+  pipeline behavior, hazards, and optimization techniques.
+
+- Future improvements may include:
+  - Support for additional ARM instructions
+  - Enhanced GUI visualization
+  - Performance metrics and statistics
